@@ -53,17 +53,17 @@ The data is related to direct marketing campaigns of a Portuguese banking instit
 **y: has the client subscribed a term deposit? (binary: "yes","no")**
  
 
-Objectives:
+Objectives: 
 
 You are required to prepare a well-commented an interactive python notebook as your solution to this problem statement. The notebook must meet the following objectives:
 
-Clean the data and drop useless columns.
+Clean the data and drop useless columns.  
 
 Make an EDA report, i.e., perform a univariate and bivariate analysis. Also, derive new features based on the given features, remove outliers and correlated variables if necessary.
 
-Visualize the distributions of various features and correlations between them.
+Visualize the distributions of various features and correlations between them.   
 
-Perform feature engineering to extract the correct features for the model.
+Perform feature engineering to extract the correct features for the model.    
 
 Build a logistic regression model
 
