@@ -31,7 +31,7 @@ The data is related to direct marketing campaigns of a Portuguese banking instit
 
 # Data related to the last contact of the current campaign
 
-**1**.contact: contact communication type (categorical: "unknown","telephone","cellular") 
+**1**.contact: contact communication type (categorical: "unknown","telephone","cellular")
 **2**.day: last contact day of the month (numeric)
 **3**.month: last contact month of year (categorical: "jan", "feb", "mar", ..., "nov", "dec")
 **4**.duration: last contact duration, in seconds (numeric)
